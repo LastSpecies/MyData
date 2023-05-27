@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nisha
+ *
+ */
+module DecoratorPattern {
+}
